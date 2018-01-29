@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\Week 2\The Smallest Prime Number\The Smallest Prime Number\obj\Debug\The Smallest Prime Number.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Week 2\The Smallest Prime Number\The Smallest Prime Number\obj\Debug\The Smallest Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Week 2\The Smallest Prime Number\The Smallest Prime Number\bin\Debug\The Smallest Prime Number.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Week 2\The Smallest Prime Number\The Smallest Prime Number\bin\Debug\The Smallest Prime Number.exe
+C:\Users\User_PC\Documents\PP2\Student\Week 2\The Smallest Prime Number\The Smallest Prime Number\bin\Debug\The Smallest Prime Number.pdb
+C:\Users\User_PC\Documents\PP2\Student\Week 2\The Smallest Prime Number\The Smallest Prime Number\obj\Debug\The Smallest Prime Number.exe
+C:\Users\User_PC\Documents\PP2\Student\Week 2\The Smallest Prime Number\The Smallest Prime Number\obj\Debug\The Smallest Prime Number.pdb
